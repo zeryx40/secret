@@ -1,1 +1,355 @@
-{"name":"SpooferPro","subtitle":"The Altstore Source for SpooferPro","iconURL":"https://spooferpro.com/android-chrome-512x512.png","headerURL":"https://spooferpro.com/android-chrome-512x512.png","website":"https://spooferpro.com/","tintColor":"#FFA900","featuredApps":["com.nianticlabs.pokemongo"],"apps":[{"name":"SpooferPro Pokemon GO","subtitle":"This is the SpooferPro tweak for Pokemon Go","bundleIdentifier":"com.nianticlabs.pokemongo","developerName":"SpooferPro","localizedDescription":"SPOOF INTO THE World of PoGO\nSpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!\n\nFAKE LOCATION\nTeleport to anywhere in the World, use inbuilt list of hotspots or search locations on the map.\n\nTEAM ROCKET\nTired of all those Grunts, defeat the rocket balloons, grunts, leaders in battle with just one hit!\n\nIV PREVIEWS\nSee how powerful (Individual values - Attack/Defense/Stamina) the Pokemon is before you catch it and in your inventory.\n\nJOYSTICK\nEasily move around and change the speed at which you move with convenience of inbuilt Joystick.\n\nHUGE MAP\nTeleport to any location, See Pokemon, Gyms/Raids, Pokestops/Incidents around you with our huge Map.\n\nVIRTUAL GO PLUS\nToo lazy to get some more stardust, just turn on Auto Walk and the Virtual Go Plus and let it do the rest. No need to buy all that expensive hardware.","iconURL":"https://spooferpro.com/android-chrome-512x512.png","tintColor":"#FFA900","category":"games","screenshots":[{"imageURL":"https://spooferpro.com/img/DCUE1687.PNG"},{"imageURL":"https://spooferpro.com/img/AZAR2677.PNG"},{"imageURL":"https://spooferpro.com/img/ARZR8718.PNG"},{"imageURL":"https://spooferpro.com/img/DFLK2822.PNG"},{"imageURL":"https://spooferpro.com/img/HVEB7754.PNG"},{"imageURL":"https://spooferpro.com/img/KYGT6611.PNG"},{"imageURL":"https://spooferpro.com/img/OBOD2935.PNG"},{"imageURL":"https://spooferpro.com/img/VVMW4614.PNG"},{"imageURL":"https://spooferpro.com/img/XQRO8297.PNG"},{"imageURL":"https://spooferpro.com/img/IVSQ9834.PNG"},{"imageURL":"https://spooferpro.com/img/CIFX5915.PNG"},{"imageURL":"https://spooferpro.com/img/ERQN6324.PNG"},{"imageURL":"https://spooferpro.com/img/CKYG6826.PNG"},{"imageURL":"https://spooferpro.com/img/KIDN6355.PNG"},{"imageURL":"https://spooferpro.com/img/NBXQ5563.PNG"}],"versions":[{"version":"0.361.0","buildVersion":"0.505","date":"2025-05-18T01:57:53+00:00","size":156815759,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.361.0-0.505.RLS.ipa","localizedDescription":"SpooferPro-0.361.0-0.505.RLS.ipa","minOSVersion":"15.0"},{"version":"0.361.0","buildVersion":"0.502","date":"2025-05-15T02:12:12+00:00","size":156805772,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.361.0-0.502.RLS.ipa","localizedDescription":"SpooferPro-0.361.0-0.502.RLS.ipa","minOSVersion":"15.0"},{"version":"0.357.2","buildVersion":"0.486","date":"2025-04-18T03:44:29+00:00","size":144387024,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.357.2-0.486.RLS.ipa","localizedDescription":"SpooferPro-0.357.2-0.486.RLS.ipa","minOSVersion":"15.0"},{"version":"0.355.0","buildVersion":"0.482","date":"2025-04-04T00:13:56+00:00","size":143717621,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.355.0-0.482.RLS.ipa","localizedDescription":"SpooferPro-0.355.0-0.482.RLS.ipa","minOSVersion":"15.0"},{"version":"0.353.1","buildVersion":"0.479","date":"2025-03-25T02:33:58+00:00","size":142865509,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.353.1-0.479.RLS.ipa","localizedDescription":"SpooferPro-0.353.1-0.479.RLS.ipa","minOSVersion":"15.0"},{"version":"0.353.0","buildVersion":"0.477","date":"2025-03-20T03:21:04+00:00","size":142861751,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.353.0-0.477.RLS.ipa","localizedDescription":"SpooferPro-0.353.0-0.477.RLS.ipa","minOSVersion":"15.0"},{"version":"0.353.0","buildVersion":"0.476","date":"2025-03-19T19:27:53+00:00","size":142862322,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.353.0-0.476.RLS.ipa","localizedDescription":"SpooferPro-0.353.0-0.476.RLS.ipa","minOSVersion":"15.0"},{"version":"0.351.0","buildVersion":"0.472","date":"2025-03-13T03:17:39+00:00","size":142714258,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.351.0-0.472.RLS.ipa","localizedDescription":"SpooferPro-0.351.0-0.472.RLS.ipa","minOSVersion":"15.0"},{"version":"0.351.0","buildVersion":"0.469","date":"2025-03-06T05:06:54+00:00","size":142732323,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.351.0-0.469.RLS.ipa","localizedDescription":"SpooferPro-0.351.0-0.469.RLS.ipa","minOSVersion":"15.0"},{"version":"0.349.1","buildVersion":"0.467","date":"2025-02-26T01:02:50+00:00","size":141980671,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.349.1-0.467.RLS.ipa","localizedDescription":"SpooferPro-0.349.1-0.467.RLS.ipa","minOSVersion":"15.0"},{"version":"0.349.0","buildVersion":"0.464","date":"2025-02-23T03:01:17+00:00","size":141931593,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.349.0-0.464.RLS.ipa","localizedDescription":"SpooferPro-0.349.0-0.464.RLS.ipa","minOSVersion":"15.0"},{"version":"0.349.0","buildVersion":"0.461","date":"2025-02-18T16:27:03+00:00","size":141877259,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.349.0-0.461.RLS.ipa","localizedDescription":"SpooferPro-0.349.0-0.461.RLS.ipa","minOSVersion":"15.0"},{"version":"0.347.0","buildVersion":"0.453","date":"2025-02-07T04:56:25+00:00","size":142356359,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.347.0-0.453.RLS.ipa","localizedDescription":"SpooferPro-0.347.0-0.453.RLS.ipa","minOSVersion":"15.0"},{"version":"0.345.0","buildVersion":"0.448","date":"2025-01-23T04:43:41+00:00","size":142211818,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.345.0-0.448.RLS.ipa","localizedDescription":"SpooferPro-0.345.0-0.448.RLS.ipa","minOSVersion":"15.0"},{"version":"0.343.2","buildVersion":"0.446","date":"2025-01-09T20:42:44+00:00","size":145075150,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.343.2-0.446.RLS.ipa","localizedDescription":"SpooferPro-0.343.2-0.446.RLS.ipa","minOSVersion":"15.0"},{"version":"0.343.1","buildVersion":"0.444","date":"2025-01-06T04:55:14+00:00","size":145286520,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.343.1-0.444.RLS.ipa","localizedDescription":"SpooferPro-0.343.1-0.444.RLS.ipa","minOSVersion":"15.0"},{"version":"0.343.0","buildVersion":"0.443","date":"2024-12-19T05:34:57+00:00","size":145212945,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.343.0-0.443.RLS.ipa","localizedDescription":"SpooferPro-0.343.0-0.443.RLS.ipa","minOSVersion":"15.0"},{"version":"0.343.0","buildVersion":"0.440","date":"2024-12-17T23:40:18+00:00","size":145215338,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.343.0-0.440.RLS.ipa","localizedDescription":"SpooferPro-0.343.0-0.440.RLS.ipa","minOSVersion":"15.0"},{"version":"0.341.2","buildVersion":"0.439","date":"2024-12-12T03:42:57+00:00","size":144485838,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.341.2-0.439.RLS.ipa","localizedDescription":"SpooferPro-0.341.2-0.439.RLS.ipa","minOSVersion":"15.0"},{"version":"0.341.2","buildVersion":"0.437","date":"2024-12-11T18:06:48+00:00","size":144484246,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.341.2-0.437.RLS.ipa","localizedDescription":"SpooferPro-0.341.2-0.437.RLS.ipa","minOSVersion":"15.0"},{"version":"0.341.2","buildVersion":"0.436","date":"2024-12-04T21:04:10+00:00","size":144502452,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.341.2-0.436.RLS.ipa","localizedDescription":"SpooferPro-0.341.2-0.436.RLS.ipa","minOSVersion":"15.0"},{"version":"0.341.1","buildVersion":"0.432","date":"2024-12-02T23:36:13+00:00","size":144773909,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.341.1-0.432.RLS.ipa","localizedDescription":"SpooferPro-0.341.1-0.432.RLS.ipa","minOSVersion":"15.0"},{"version":"0.341.0","buildVersion":"0.429","date":"2024-11-25T22:15:50+00:00","size":144644366,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.341.0-0.429.RLS.ipa","localizedDescription":"SpooferPro-0.341.0-0.429.RLS.ipa","minOSVersion":"15.0"},{"version":"0.339.1","buildVersion":"0.423","date":"2024-11-22T02:53:21+00:00","size":144849489,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.339.1-0.423.RLS.ipa","localizedDescription":"SpooferPro-0.339.1-0.423.RLS.ipa","minOSVersion":"15.0"},{"version":"0.339.0","buildVersion":"0.421","date":"2024-11-12T16:47:00+00:00","size":144886818,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.339.0-0.421.RLS.ipa","localizedDescription":"SpooferPro-0.339.0-0.421.RLS.ipa","minOSVersion":"15.0"},{"version":"0.337.0","buildVersion":"0.419","date":"2024-11-03T17:45:04+00:00","size":149974260,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.337.0-0.419.RLS.ipa","localizedDescription":"SpooferPro-0.337.0-0.419.RLS.ipa","minOSVersion":"15.0"},{"version":"0.337.0","buildVersion":"0.418","date":"2024-11-03T03:30:08+00:00","size":150044212,"downloadURL":"https://download.spooferpro.com/SpooferPro-0.337.0-0.418.RLS.ipa","localizedDescription":"SpooferPro-0.337.0-0.418.RLS.ipa","minOSVersion":"15.0"}],"appPermissions":{"entitlements":["com.apple.security.application-groups","com.apple.developer.associated-domains","com.apple.developer.healthkit","com.apple.developer.healthkit.background-delivery","aps-environment","com.apple.developer.healthkit.access","com.apple.developer.applesignin"],"privacy":{"NSBluetoothAlwaysUsageDescription":"Allows pairing to devices including peripherals and consoles.","NSBluetoothPeripheralUsageDescription":"Allows for usage of the Pokémon GO Plus","NSCalendarsUsageDescription":"In order to add Live Event calendar items","NSCameraUsageDescription":"Enabling this setting allows you to use AR when catching Pokémon.","NSContactsUsageDescription":"Pokémon GO needs to access and upload your contacts to our servers to send game invites and friend requests to people in your address book.","NSHealthShareUsageDescription":"Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.","NSHealthUpdateUsageDescription":"Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.","NSLocationAlwaysAndWhenInUseUsageDescription":"Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!","NSLocationAlwaysUsageDescription":"Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!","NSLocationWhenInUseUsageDescription":"Pokémon GO requires your mobile device’s location permissions to be enabled in order to find Pokémon and PokéStops near you.","NSMicrophoneUsageDescription":"not used","NSMotionUsageDescription":"Pokémon GO requires your mobile device’s motion permissions to be enabled in order to let you know when new Pokémon are nearby.","NSPhotoLibraryAddUsageDescription":"In order to save pictures of encountered Pokémon","NSPhotoLibraryUsageDescription":"In order to save pictures of encountered Pokémon","NSUserTrackingUsageDescription":"If you enable this setting, your information can be used to deliver personalized ads to you regarding Pokémon GO exclusive offers, promotions, and events."}}}],"news":[{"title":"SpooferPro 0.361.0","identifier":"0.361.0-0.505","caption":"0.361.0-0.505 is now supported","date":"2025-05-18T01:57:53+00:00","tintColor":"#FFA900","notify":true,"appID":"com.nianticlabs.pokemongo"}]}
+{
+  "name": "SpooferPro",
+  "identifier": "com.spooferpro.source",
+  "subtitle": "The Altstore Source for SpooferPro",
+  "iconURL": "https://spooferpro.com/android-chrome-512x512.png",
+  "headerURL": "https://spooferpro.com/android-chrome-512x512.png",
+  "website": "https://spooferpro.com/",
+  "tintColor": "#FFA900",
+  "featuredApps": [
+    "com.nianticlabs.pokemongo"
+  ],
+  "apps": [
+    {
+      "name": "SpooferPro Pokemon GO",
+      "subtitle": "This is the SpooferPro tweak for Pokemon Go",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "SpooferPro",
+      "localizedDescription": "SPOOF INTO THE World of PoGO\nSpooferPro for PoGO is an enhanced edition of the PoGO app, adding a joystick and ability to teleport! It also includes a lot of other features like, IV Previews, Modified Throw, Auto Walking, GPX, Fast Catch, a live feed and even a map with everything around you! No need for a computer and even works on non-jailbreak iPhones! We highly recommend it, so check it out!\n\nFAKE LOCATION\nTeleport to anywhere in the World, use inbuilt list of hotspots or search locations on the map.\n\nTEAM ROCKET\nTired of all those Grunts, defeat the rocket balloons, grunts, leaders in battle with just one hit!\n\nIV PREVIEWS\nSee how powerful (Individual values - Attack/Defense/Stamina) the Pokemon is before you catch it and in your inventory.\n\nJOYSTICK\nEasily move around and change the speed at which you move with convenience of inbuilt Joystick.\n\nHUGE MAP\nTeleport to any location, See Pokemon, Gyms/Raids, Pokestops/Incidents around you with our huge Map.\n\nVIRTUAL GO PLUS\nToo lazy to get some more stardust, just turn on Auto Walk and the Virtual Go Plus and let it do the rest. No need to buy all that expensive hardware.",
+      "iconURL": "https://spooferpro.com/android-chrome-512x512.png",
+      "tintColor": "#FFA900",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://spooferpro.com/img/DCUE1687.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/AZAR2677.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/ARZR8718.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/DFLK2822.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/HVEB7754.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/KYGT6611.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/OBOD2935.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/VVMW4614.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/XQRO8297.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/IVSQ9834.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/CIFX5915.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/ERQN6324.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/CKYG6826.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/KIDN6355.PNG"
+        },
+        {
+          "imageURL": "https://spooferpro.com/img/NBXQ5563.PNG"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.361.0",
+          "buildVersion": "0.505",
+          "date": "2025-05-18T01:57:53+00:00",
+          "size": 156815759,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.361.0-0.505.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.361.0-0.505.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.361.0",
+          "buildVersion": "0.502",
+          "date": "2025-05-15T02:12:12+00:00",
+          "size": 156805772,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.361.0-0.502.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.361.0-0.502.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.357.2",
+          "buildVersion": "0.486",
+          "date": "2025-04-18T03:44:29+00:00",
+          "size": 144387024,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.357.2-0.486.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.357.2-0.486.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.355.0",
+          "buildVersion": "0.482",
+          "date": "2025-04-04T00:13:56+00:00",
+          "size": 143717621,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.355.0-0.482.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.355.0-0.482.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.353.1",
+          "buildVersion": "0.479",
+          "date": "2025-03-25T02:33:58+00:00",
+          "size": 142865509,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.353.1-0.479.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.353.1-0.479.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.353.0",
+          "buildVersion": "0.477",
+          "date": "2025-03-20T03:21:04+00:00",
+          "size": 142861751,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.353.0-0.477.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.353.0-0.477.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.353.0",
+          "buildVersion": "0.476",
+          "date": "2025-03-19T19:27:53+00:00",
+          "size": 142862322,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.353.0-0.476.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.353.0-0.476.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.351.0",
+          "buildVersion": "0.472",
+          "date": "2025-03-13T03:17:39+00:00",
+          "size": 142714258,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.351.0-0.472.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.351.0-0.472.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.351.0",
+          "buildVersion": "0.469",
+          "date": "2025-03-06T05:06:54+00:00",
+          "size": 142732323,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.351.0-0.469.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.351.0-0.469.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.349.1",
+          "buildVersion": "0.467",
+          "date": "2025-02-26T01:02:50+00:00",
+          "size": 141980671,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.349.1-0.467.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.349.1-0.467.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.349.0",
+          "buildVersion": "0.464",
+          "date": "2025-02-23T03:01:17+00:00",
+          "size": 141931593,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.349.0-0.464.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.349.0-0.464.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.349.0",
+          "buildVersion": "0.461",
+          "date": "2025-02-18T16:27:03+00:00",
+          "size": 141877259,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.349.0-0.461.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.349.0-0.461.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.347.0",
+          "buildVersion": "0.453",
+          "date": "2025-02-07T04:56:25+00:00",
+          "size": 142356359,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.347.0-0.453.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.347.0-0.453.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.345.0",
+          "buildVersion": "0.448",
+          "date": "2025-01-23T04:43:41+00:00",
+          "size": 142211818,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.345.0-0.448.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.345.0-0.448.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.343.2",
+          "buildVersion": "0.446",
+          "date": "2025-01-09T20:42:44+00:00",
+          "size": 145075150,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.343.2-0.446.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.343.2-0.446.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.343.1",
+          "buildVersion": "0.444",
+          "date": "2025-01-06T04:55:14+00:00",
+          "size": 145286520,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.343.1-0.444.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.343.1-0.444.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.343.0",
+          "buildVersion": "0.443",
+          "date": "2024-12-19T05:34:57+00:00",
+          "size": 145212945,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.343.0-0.443.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.343.0-0.443.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.343.0",
+          "buildVersion": "0.440",
+          "date": "2024-12-17T23:40:18+00:00",
+          "size": 145215338,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.343.0-0.440.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.343.0-0.440.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.341.2",
+          "buildVersion": "0.439",
+          "date": "2024-12-12T03:42:57+00:00",
+          "size": 144485838,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.341.2-0.439.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.341.2-0.439.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.341.2",
+          "buildVersion": "0.437",
+          "date": "2024-12-11T18:06:48+00:00",
+          "size": 144484246,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.341.2-0.437.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.341.2-0.437.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.341.2",
+          "buildVersion": "0.436",
+          "date": "2024-12-04T21:04:10+00:00",
+          "size": 144502452,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.341.2-0.436.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.341.2-0.436.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.341.1",
+          "buildVersion": "0.432",
+          "date": "2024-12-02T23:36:13+00:00",
+          "size": 144773909,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.341.1-0.432.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.341.1-0.432.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.341.0",
+          "buildVersion": "0.429",
+          "date": "2024-11-25T22:15:50+00:00",
+          "size": 144644366,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.341.0-0.429.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.341.0-0.429.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.339.1",
+          "buildVersion": "0.423",
+          "date": "2024-11-22T02:53:21+00:00",
+          "size": 144849489,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.339.1-0.423.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.339.1-0.423.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.339.0",
+          "buildVersion": "0.421",
+          "date": "2024-11-12T16:47:00+00:00",
+          "size": 144886818,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.339.0-0.421.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.339.0-0.421.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.337.0",
+          "buildVersion": "0.419",
+          "date": "2024-11-03T17:45:04+00:00",
+          "size": 149974260,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.337.0-0.419.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.337.0-0.419.RLS.ipa",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.337.0",
+          "buildVersion": "0.418",
+          "date": "2024-11-03T03:30:08+00:00",
+          "size": 150044212,
+          "downloadURL": "https://download.spooferpro.com/SpooferPro-0.337.0-0.418.RLS.ipa",
+          "localizedDescription": "SpooferPro-0.337.0-0.418.RLS.ipa",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.background-delivery",
+          "aps-environment",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Allows pairing to devices including peripherals and consoles.",
+          "NSBluetoothPeripheralUsageDescription": "Allows for usage of the Pokémon GO Plus",
+          "NSCalendarsUsageDescription": "In order to add Live Event calendar items",
+          "NSCameraUsageDescription": "Enabling this setting allows you to use AR when catching Pokémon.",
+          "NSContactsUsageDescription": "Pokémon GO needs to access and upload your contacts to our servers to send game invites and friend requests to people in your address book.",
+          "NSHealthShareUsageDescription": "Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.",
+          "NSHealthUpdateUsageDescription": "Pokémon GO needs your activity data to hatch Pokémon eggs, help your Pokémon find candies, and display total distance walked.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!",
+          "NSLocationAlwaysUsageDescription": "Set your device’s location permissions to Always to collect Candy, hatch Eggs, and earn rewards—even when Pokémon GO isn’t open!",
+          "NSLocationWhenInUseUsageDescription": "Pokémon GO requires your mobile device’s location permissions to be enabled in order to find Pokémon and PokéStops near you.",
+          "NSMicrophoneUsageDescription": "not used",
+          "NSMotionUsageDescription": "Pokémon GO requires your mobile device’s motion permissions to be enabled in order to let you know when new Pokémon are nearby.",
+          "NSPhotoLibraryAddUsageDescription": "In order to save pictures of encountered Pokémon",
+          "NSPhotoLibraryUsageDescription": "In order to save pictures of encountered Pokémon",
+          "NSUserTrackingUsageDescription": "If you enable this setting, your information can be used to deliver personalized ads to you regarding Pokémon GO exclusive offers, promotions, and events."
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "SpooferPro 0.361.0",
+      "identifier": "0.361.0-0.505",
+      "caption": "0.361.0-0.505 is now supported",
+      "date": "2025-05-18T01:57:53+00:00",
+      "tintColor": "#FFA900",
+      "notify": true,
+      "appID": "com.nianticlabs.pokemongo"
+    }
+  ]
+}
